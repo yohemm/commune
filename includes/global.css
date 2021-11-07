@@ -1,0 +1,103 @@
+*{
+	margin: 0%;
+}
+header{
+	background: url(../img/Liézey.jpg) no-repeat;
+	background-size:  100%;
+	padding-bottom: 20px;
+}
+header a,h1{
+	display: inline-block;
+	width: 48%;
+}
+header a img{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+header h1{
+	vertical-align: top;
+	padding-top: 80px;
+}
+div#content{
+	margin-top: 10px;
+}
+div#content div{
+	display: inline-block;
+}
+div#content div#left_box{
+	vertical-align: top;
+}
+div#content div#left_box ul{
+	list-style: none;
+	background-color: #277E0F ;
+	border-radius: 10px;
+	padding: 0%;
+}
+div#content div#left_box li a{
+	width: 100%;
+	text-decoration: none;
+	display: block;
+	color: black;
+	padding-top:10px;
+	padding-left:20px;
+	padding-bottom:10px;
+	padding-right:40px;
+}
+div#content div#left_box li:hover{
+	transition: 0.5s;
+	background-color: #32A113;
+	padding: 1
+}
+div#content div#right_box{
+	vertical-align: top;
+	background-size: 100%;
+	background-color: #F2F2F2;
+	border-radius: 5px;
+}
+div#content div#right_box p,a,div{
+	padding: 5px;
+}
+
+footer{
+	text-align: center;
+	background-color: #F3FDE0;
+}
+input, textarea{
+	list-style: none;
+	background-color: #D4D4D4;
+	text-decoration: none;
+	border-style: none;
+	resize: none;
+}
+div.new div{
+	text-align: center;
+	width: 100%;
+}
+
+div.new{
+	width: 100%;
+	border-bottom: 2px #000 dotted;
+	margin: 5px, 10px;
+}
+
+div#one_content{
+	text-align: center;
+	align-content: center;
+	align-self: center;
+}
+div.error{
+	padding: 3%;
+	background-color: #E60000;
+	border: solid 2px #970000;
+	border-radius: 10px;
+	margin: 1%;
+}
+div.success{
+	padding: 3%;
+	background-color: #1EE600;
+	border: solid 2px #15A100;
+	border-radius: 10px;
+}
+btn{
+	#D4D4D4
+}
