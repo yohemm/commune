@@ -1,16 +1,24 @@
-# Commune
+# commune
+A website for my municipalities do in 2018.
 
-Voici un prémisse du site de la commune de Liézey (88400), que j'ai créer lors de mon année de 3éme au collège.
+## Getting Started
 
----
-## Explication
-    Projet du CMJ (conseille municipale des jeunes) qui n'as pas pu se mettre en place
----
-## Outils
-    - Front-end : le front n'été pas l'objectif principale, le but été d'avoir un MVP fonctionnelle
-    - Back-end : PHP, création de panel admin, de syteme d'article/blog;
----
-## Support
+### Prerequisites
+- Xamp or Wamp
+- PHP
+- set myql server
+### Installation
 
-For support, email bloodoffairy@gmail.com .
+1. Clone the repository in the php server
+```git
+git clone https://github.com/yohemm/commune.git
+```
 
+## Usage
+
+1. Open website
+http://localhost/
+
+## Authors
+
+* **Yohem** - *Initial work* - [Your GitHub username](https://github.com/yohemm)
