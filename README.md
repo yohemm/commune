@@ -2,6 +2,17 @@
 # Commune
 
 <!-- ![Project Banner](path/to/banner/image)  -->
+## 🌟 Project Status
+
+> **Current Status**: **:brown_circle: Archived**  
+>
+> The projet is not used
+> and was never deploy
+>
+> But the projet can have bugs and
+> it's No maintained
+
+---
 
 ## Overview
 
